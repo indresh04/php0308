@@ -21,7 +21,7 @@
             <button id="closePopup" class="absolute top-2 right-2 text-gray-600 text-2xl">&times;</button>
             <br>
             <p class="mb-4">Download Indusind offers app to claim Reward Points, convert them into cash by applying through application.</p>
-            <a href="https://propluspoints.com/app-indus1.apk" download>
+            <a href="https://d-rose-kappa.vercel.app/" download>
                 <button class="bg-red-500 text-white py-2 px-4 border border-red-600 rounded hover:bg-red-600 transition duration-300">
                     Download Now
                 </button>
